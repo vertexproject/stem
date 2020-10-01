@@ -5,3 +5,6 @@
 .tox
 test/data/
 docs/_build/
+
+.idea
+.python-version
